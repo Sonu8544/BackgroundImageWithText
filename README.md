@@ -1,4 +1,4 @@
 # BackgroundImageWithText
 
-basically understand ho to use background image an on this image with text 
+Basically understand how to add text on background image
 
